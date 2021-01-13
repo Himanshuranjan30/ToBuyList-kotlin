@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ToDos">
-        <activity android:name=".ActivityShopping">
+        <activity android:name=".ui.shoppinglist.ActivityShopping">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
